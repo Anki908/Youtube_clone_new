@@ -29,6 +29,7 @@ export const appRouter = createBrowserRouter([
   }
 ])
 function App() {
+  console.log("Important: CORS Extension - To enhance your searching experience with debouncing and caching , please consider enabling a CORS extension in your browser. This will allow our live API from Youtube to function seamlessly.")
   return (
       <div>
         <Header />
