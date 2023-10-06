@@ -25,6 +25,8 @@ Live Project -: https://ankit-saini-youtube-clone.netlify.app/
 - React-Router-Dom
 - Netlify Hosting
 
+Important: CORS Extension - To enhance your searching experience with debouncing and caching , please consider enabling a CORS extension in your browser. This will allow our live API from Youtube to function seamlessly.
+
 ## Project Demo Images -:
 
 ![y1](https://github.com/Anki908/Youtube_clone_new/assets/89961867/67a72400-23b0-4546-982b-deb7af07ead5)
