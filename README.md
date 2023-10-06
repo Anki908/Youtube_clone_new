@@ -3,7 +3,7 @@
 
 The Youtube Clone is a web application developed using React.js, Tailwind CSS, Redux Toolkit , Youtube API.
 
-Live Project -: https://ankit-saini-youtube-clone.netlify.app/
+Live Project -: https://youtube-clone-ankit-saini.netlify.app
 
 
 
